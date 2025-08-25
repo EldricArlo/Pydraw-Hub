@@ -1,2 +1,2 @@
-# Pydraw-Hub
-Use pyplot to draw images, this is a learning collection
+# Pydraw-learning
+Draw, use the metplotlib to learning.
